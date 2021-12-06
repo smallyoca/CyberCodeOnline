@@ -597,7 +597,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "一個飽含某人記憶及經驗的碎片, 使用它您可以獲得${levelName}點經驗值",
+ 	 	 	 	"trans": "一個含有某人記憶及經驗的碎片, 使用它您可以獲得${levelName}點經驗值",
  	 	 	 	"eng": "A shard that contains someone's memory and experience. If used you may gain ${levelName} experience from this"
  	 	 	}
  	 	},
